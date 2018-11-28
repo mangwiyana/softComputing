@@ -1,0 +1,2 @@
+# softComputing
+tugas preceptron
